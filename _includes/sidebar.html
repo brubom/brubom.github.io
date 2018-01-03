@@ -18,7 +18,7 @@
         {% if site.pages %}
         <div class="mainmenu">
             <a href="/" {% if page.url == "/" %}class="active"{% endif %}>Home</a>
-            <a href="/docs/BrunoMoreiraResume.pdf" {% if page.url == "/" %}class="active"{% endif %}>CV</a>
+            <a href="/docs/BrunoMoreiraResume.pdf">CV</a>
             {% for p in site.pages %}
                 {% if p.layout == 'page' %}
                     <a href="{{ p.url | prepend: site.baseurl | prepend: site.url }}" {% if p.url == page.url %}class="active"{% endif %}>{{ p.title }}</a>
