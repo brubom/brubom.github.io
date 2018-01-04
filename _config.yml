@@ -1,6 +1,6 @@
 # General Settings
 name: Bruno Moreira
-job_title: Lead Software Engineer
+job_title: Software Engineer
 email: brubom@gmail.com
 description: I'm experienced in managing teams or working on solo projects with a high degree of complexity and delivering quality, using Scrum and XP. Strong track record of simplifying what is difficult and delivering results. I thrive in autonomous and creative environments, building a culture of fun, candor, and a bias for action.
 avatar: https://s3-us-west-1.amazonaws.com/uifaces.brubom/avatar.png
@@ -19,7 +19,7 @@ social_networks:
 -  { name: skype, url: '' }
 -  { name: github, url: 'https://github.com/brubom' }
 -  { name: codepen, url: '' }
--  { name: stack-overflow, url: '' }
+-  { name: stack-overflow, url: 'https://stackoverflow.com/users/5789561/bruno-moreira?tab=profile' }
 -  { name: dribbble, url: '' }
 -  { name: behance, url: '' }
 -  { name: pinterest, url: '' }
